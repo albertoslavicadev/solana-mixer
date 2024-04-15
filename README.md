@@ -22,7 +22,7 @@ Solana Mixer enhances privacy on the Solana blockchain by mixing fixed amounts o
 
 3. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/Solana-Mixer.git
+   git clone https://github.com/albertoslavicadev/solana-mixer.git
    cd Solana-Mixer
    ```
 
@@ -66,7 +66,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 #### License
 Solana Mixer is open source and available under the MIT License.
-
----
-
-This README provides a basic setup for Solana development, ensuring users can get started with building and deploying the Solana Mixer. Adjustments might be necessary based on specific project requirements or Solana updates.# solana-mixer
