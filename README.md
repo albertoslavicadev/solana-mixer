@@ -4,7 +4,6 @@
 Solana Mixer enhances privacy on the Solana blockchain by mixing fixed amounts of SOL to anonymize transactions. This README outlines the steps to install the Solana CLI, build, and deploy the Solana Mixer program.
 
 #### Prerequisites
-- Install [Node.js](https://nodejs.org/)
 - Install [Rust and Cargo](https://www.rust-lang.org/tools/install)
 - Install [Solana CLI](https://docs.solana.com/cli/install-solana-cli-tools)
 
@@ -50,12 +49,6 @@ After deployment, take note of the program ID output by the deployment command. 
 1. **Fund Your Wallet**
    ```bash
    solana airdrop 2 $(solana-keygen pubkey dist/program-keypair.json)
-   ```
-
-2. **Run a Sample Script**
-   - Modify `sample_interaction.js` with your program ID and specific instructions based on your program's API.
-   ```bash
-   node sample_interaction.js
    ```
 
 #### Support
