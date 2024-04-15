@@ -69,4 +69,4 @@ Solana Mixer is open source and available under the MIT License.
 
 ---
 
-This README provides a basic setup for Solana development, ensuring users can get started with building and deploying the Solana Mixer. Adjustments might be necessary based on specific project requirements or Solana updates.
+This README provides a basic setup for Solana development, ensuring users can get started with building and deploying the Solana Mixer. Adjustments might be necessary based on specific project requirements or Solana updates.# solana-mixer
